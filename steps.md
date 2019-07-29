@@ -1,4 +1,6 @@
-i am expecting you have already configured your github.if not, 
+i am expecting you have already configured your github.if not, [click_here](https://github.com/subhendu17620/git_cheatsheet/blob/master/cheetsheet.md#configure-tools) for how-to
+
+
 open cmd
 1. clone the remote repo to local machine
     `git clone [link of online repo]`
