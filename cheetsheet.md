@@ -1,8 +1,8 @@
 
 ## Install Git
-GitHub for Windows
+GitHub for Windows\n
 link : https://windows.github.com
-GitHub for Mac
+GitHub for Mac\n
 link :https://mac.github.com
 
 ## configure tools
