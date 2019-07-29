@@ -1,3 +1,5 @@
+## steps to sync a file from local repo(your system) to remote repo (github)
+
 i am expecting you have already configured your github.if not, [click_here](https://github.com/subhendu17620/git_cheatsheet/blob/master/cheetsheet.md#configure-tools) for how-to
 
 
