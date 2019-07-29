@@ -26,6 +26,7 @@ GitHub for Mac https://mac.github.com
 `git clone [url]`
 >Downloads a project and its entire version history
 
+
 ## make changes
 ### Review edits and craft a commit transaction
 
@@ -65,6 +66,7 @@ GitHub for Mac https://mac.github.com
 
 `git branch -d [branch-name]`
 >Deletes the specified branch
+
 
 ## review history
 ### Browse and inspect the evolution of project files
