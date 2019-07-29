@@ -49,7 +49,7 @@ GitHub for Mac https://mac.github.com
 >Records file snapshots permanently in version history
 
 
-## GROUP CHANGES
+## group changes
 ### Name a series of commits and combine completed efforts
 
 `git branch`
