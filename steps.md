@@ -3,7 +3,7 @@ i am expecting you have already configured your github.if not, [click_here](http
 
 open cmd
 1. clone the remote repo to local machine
-    `git clone [link of online repo]`
+    `git clone [link of remote repo]`
 2. goto that directory which you just cloned using `cd [file neme]`
 3. `git init`
 4. copy/make your changes to the local directory you just cloned
