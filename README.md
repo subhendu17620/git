@@ -1,4 +1,4 @@
 # git_cheatsheet
-contains a markdown (.md) file which have important git command line codes which might come in handy
+contains markdown (.md) files which have important git command line codes which might come in handy
 
 happy coding :heart:
