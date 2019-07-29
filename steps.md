@@ -14,3 +14,5 @@ open cmd
     e.g `git commit -m "updated file"`
 8. `git push`
     it will syncronize to master branch
+
+ :smile: happy coding :heart:
